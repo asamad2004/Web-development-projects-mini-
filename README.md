@@ -1,2 +1,2 @@
-# Web-development-projects-mini-
-In this repository I've some web development projects which is a beginner level.
+# Web-development-mini-projects.
+In this repository I make some begginer level projects with the help of HTML, CSS and Js
